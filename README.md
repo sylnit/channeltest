@@ -1,7 +1,7 @@
 # Channeltest
 
 ## Brief introduction
-This is a simple real-time application to showcase the power of Channels in Elixir/Phoenix. Channel applications use socket which clients connect to send and / or receive message. When you run this application and open the app in several tabs, you will notice that updating content of one tab equally updates the content of the rest tables in real-time. This is the power of Channels in Elixir/Phoenix.
+This is a simple real-time application to showcase the power of Channels in Elixir/Phoenix. Channel applications use socket which clients connect to send and / or receive message. When you run this application and open the app in several tabs, you will notice that updating content of one tab equally updates the content of the rest tabs in real-time. This is the power of Channels in Elixir/Phoenix.
 
 ## How to run the application
 
